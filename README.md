@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**muriloamendola/muriloamendola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/muriloamendola/">
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+  
+[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 
-Here are some ideas to get you started:
+<center>
+  <table>
+    <tr>
+      <td><img width="495px" align="left" src="https://github-readme-stats-three-puce-ricardo.vercel.app/api?username=muriloamendola&theme=default&count_private=true" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats-three-puce-ricardo.vercel.app/api/top-langs/?username=muriloamendola&hide=emacs Lisp, jupyter notebook&layout=compact&theme=default&count_private=true" /></td>
+    </tr>
+  </table>
+</center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Murilo Amêndola, I am a brazilian guy that loves everything related to technology! I've been working on software development since 2006. Now a days I am a working on [Juntos Somos Mais](https://www.juntossomosmais.com.br/) as a Coordinator Engeniring.
+
+At this long carreer I've seen a lot of things and I'd the pleasure to work with fantastic people that teached me a lot.
+
+Serverless architecture is one of my favorite tool in my tools box 😄. I really like this theme and I've experience using it in production environment with really good results (thinking in cost, escalability and resilience).
+
