@@ -4,8 +4,6 @@
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   
-[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
-
 <center>
   <table>
     <tr>
@@ -21,3 +19,4 @@ At this long carreer I've seen a lot of things and I'd the pleasure to work with
 
 Serverless architecture is one of my favorite tool in my tools box 😄. I really like this theme and I've experience using it in production environment with really good results (thinking in cost, escalability and resilience).
 
+[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
