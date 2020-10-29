@@ -13,7 +13,7 @@
   </table>
 </center>
 
-My name is Murilo Amêndola, I am a brazilian guy that loves everything related to technology! I've been working on software development since 2006. Now a days I am a working on [Juntos Somos Mais](https://www.juntossomosmais.com.br/) as a Coordinator Engeniring.
+My name is Murilo Amêndola, I am a brazilian guy that loves everything related to technology! I've been working on software development since 2006. Now a days I am a working on [Juntos Somos Mais](https://www.juntossomosmais.com.br/) as a Engineering Coordinator.
 
 At this long carreer I've seen a lot of things and I'd the pleasure to work with fantastic people that teached me a lot.
 
