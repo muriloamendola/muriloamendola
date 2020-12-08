@@ -7,8 +7,8 @@
 <center>
   <table>
     <tr>
-      <td><img width="495px" align="left" src="https://github-readme-stats-three-puce-ricardo.vercel.app/api?username=muriloamendola&theme=default&count_private=true" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats-three-puce-ricardo.vercel.app/api/top-langs/?username=muriloamendola&hide=emacs Lisp, jupyter notebook&layout=compact&theme=default&count_private=true" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats-three-puce-ricardo.vercel.app/api?username=muriloamendola&theme=dark&count_private=true" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats-three-puce-ricardo.vercel.app/api/top-langs/?username=muriloamendola&hide=emacs Lisp, jupyter notebook&layout=compact&theme=dark&count_private=true" /></td>
     </tr>
   </table>
 </center>
