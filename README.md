@@ -5,12 +5,12 @@
 </a>
   
 <center>
-  <table>
-    <tr>
-      <td><img width="495px" align="left" src="https://github-readme-stats-three-puce-ricardo.vercel.app/api?username=muriloamendola&theme=dark&count_private=true" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats-three-puce-ricardo.vercel.app/api/top-langs/?username=muriloamendola&hide=emacs Lisp, jupyter notebook&layout=compact&theme=dark&count_private=true" /></td>
-    </tr>
-  </table>
+<table>
+  <tr>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=muriloamendola&theme=chartreuse-dark&hide_border=true" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloamendola&hide=emacs%20lisp,java,javascript,jupyter%20notebook&layout=compact&hide_border=true&theme=chartreuse-dark" /></td>
+  </tr>
+</table>
 </center>
 
 My name is Murilo Amêndola, I am a brazilian guy that loves everything related to technology! I've been working on software development since 2006. Now a days I am a working on [Juntos Somos Mais](https://www.juntossomosmais.com.br/) as a Engineering Manager.
